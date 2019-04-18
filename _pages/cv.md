@@ -28,7 +28,7 @@ Rather than exploiting the knowledge, I prefer exploring intelligence.
 * Ph.D. visitor at [Prof. Pingzhong Tang](http://iiis.tsinghua.edu.cn/~kenshin/)'s group in IIIS, Tsinghua University, since 2018.
 * Research collaborations with Ant Financial for designing anti-fraud chatbots, 2019.
 * Research collaborations with Tencent for new approaches in Tencent advertising systems, 2018-2019.
-* Research intern at Search & Recommendation group, Alibaba Group, 2018-2019.
+* Research intern at Search & Recommendation group, Alibaba, 2018-2019.
 
 ## Selected competitions and awards
 Before diving into research, I was a top-class player in machine learning contests. My highest ranking at Kaggle was 63/90000+.
