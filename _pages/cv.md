@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "About Feiyang Pan"
+title: "About me"
 permalink: /
 author_profile: true
 redirect_from:
@@ -11,16 +11,36 @@ redirect_from:
 
 {% include base_path %}
 
+I am a 3rd-year PhD student under the supervision of [Prof. Qing He](http://people.ucas.edu.cn/~0000964?language=en) at Machine Learning and Data Mining group, Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS).
 
-Education
-======
-* Bachelor of Statistics, Special Class for the Gifted Young, University of Science and Technology of China, 2016.
-* Bachelor of Computer Science (dual degree), University of Science and Technology of China, 2016.
-* Ph.D in Computer Science, Institute of Computing Technology, CAS, 2021 (expected).
+I received my B.S. of Statistics and a dual degree of CS from the [School of the Gifted Young, USTC](https://en.scgy.ustc.edu.cn/) in 2016.
 
+## Research Interests
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+My research focuses on machine learning and data mining. I enjoy designing learning algorithms as well as solving applied problems. For these two parts respectively, I am especially interested in
+* Reinforcement Learning, Meta-Learning, and Bayesian Deep Learning;
+* Recommender Systems, Computational Advertising, FinTech, and Natural Language Processing.
+
+Instead of exploiting the knowledge, I would like to explore intelligence.
+
+## Academic visits, internships, and industry collaborations
+
+* Ph.D. visitor at [Prof. Pingzhong Tang](http://iiis.tsinghua.edu.cn/~kenshin/)'s group in IIIS, Tsinghua University, since 2018.
+* Research collaborations with Ant Financial for designing anti-fraud chatbots, 2019.
+* Research collaborations with Tencent for new approaches in Tencent advertising systems, 2018-2019.
+* Research intern at Search & Recommendation group, Alibaba Group, 2018-2019.
+
+## Selected competitions and awards
+* Kaggle: TalkingData AdTracking fraud detection challenge, **\#2** / 3967, 2018.
+* Kaggle: Recruit restaurant visitor forecasting, **\#1** / 2158, 2018.
+* IJCAI-18 data mining competition on Alimama sponsored search CVR prediction, **\#1** / 5204 in season 1, 2018.
+* IJCAI-17 data mining competition on customer flow forecasting in Koubei.com, **\#1** / 4046 in season 1, 2017.
+* CCF BDCI 2019 competition on personalized telecom package recommendation, **\#1** / 2546, 2018.
+* LvDe Scholarship (one of the top scholarships in ICT, CAS), 2019.
+* First-class Scholarship of ICT, CAS, 2017.
+
+## Publications
+
+<ul>{% for post in site.publications reversed %}
+{% include archive-single-cv.html %}
+{% endfor %}</ul>
