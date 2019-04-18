@@ -33,8 +33,29 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h3>
-    {{post.authorlist}}.<br>
-    In <b>{{post.venue}}</b> {{post.year}}.
+    {% assign authors = post.authorlist | split: ", " %}
+    {% for a in authors %}
+      {% if a==authors.last %}
+          {% if a=='Feiyang Pan' %}
+            <b>Feiyang Pan</b>.
+          {% else %}
+            {{a}}.
+          {% endif %}
+      {% else %}
+          {% if a=='Feiyang Pan' %}
+            <b>Feiyang Pan</b>,
+          {% else %}
+            {{a}},
+          {% endif %}
+      {% endif %}
+    {% endfor %}<br>
+      {% if post.status == 'pub' %}
+        In <b><i>{{post.venue}}</i></b> {{post.year}}.
+      {% elsif post.status == 'acc' %}
+        To appear in <b><i>{{post.venue}}</i></b> {{post.year}}.
+      {% else %}
+        <i>Work in progress.</i>
+      {% endif %}
     </li>
  </article>
 </div>

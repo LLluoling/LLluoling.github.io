@@ -1,0 +1,22 @@
+---
+title: "Warm Up Cold-start Advertisements: Improving CTR Predictions via Learning to Learn ID Embeddings"
+collection: publications
+permalink: /publications/MetaEmbedding
+excerpt: "Warm Up Cold-start Advertisements: Improving CTR Predictions via Learning to Learn ID Embeddings"
+date: 2019-01-01
+venue: "SIGIR"
+year: 2019
+paperurl:
+authorlist: "Feiyang Pan, Shuokai Li, Xiang Ao, Pingzhong Tang, Qing He"
+citation: "Feiyang Pan, Shuokai Li, Xiang Ao, Pingzhong Tang, Qing He. Warm Up Cold-start Advertisements: Improving CTR Predictions via Learning to Learn ID Embeddings. In SIGIR 2019."
+status: 'acc'
+---
+**Abstract:**
+Click-through rate (CTR) prediction has been one of the most central problems in computational advertising. Lately, various embedding techniques that produce low-dimensional representations of ad IDs drastically improve CTR prediction accuracies. However, such learning techniques are data demanding and work poorly on new ads with little logging data, also known as the cold-start problem.
+
+In this paper, we aim to improve the performance of CTR predictions during both the **cold-start** phase and the **warm-up** phase, when a new ad is added to the candidate pool. We propose **Meta-Embedding**, a meta-learning-based approach that learns to generate desirable initial embeddings for new ad IDs. The proposed method trains an embedding generator of new ad IDs by making use of previously learned ads through gradient-based meta-learning.
+In other words, our method learns how to learn better embeddings. When a new ad comes, the trained generator initializes an embedding of its ID by feeding its contents and attributes. The generated embedding then can speed up the model fitting during the warm-up phase when a few labeled examples are available, compared to the existing initialization methods.
+
+Experimental results on three real-world datasets show that Meta-Embedding can significantly improve both the cold-start and warm-up performances for six existing CTR prediction models, ranging from lightweight models such as Factorization Machines to complicated deep models such as PNN and DeepFM. All of the above apply to conversion rate (CVR) predictions as well.
+
+**PDF will be uploaded in days**

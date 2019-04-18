@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Feiyang Pan / 潘斐阳"
   avatar           : "profile.png"
-  bio              : "Ph.D. student at Institute of Computing Technology, Chinese Academy of Sciences"
+  bio              : "To explore the intellegence."
   location         : "Beijing, China"
-  employer         :
+  employer         : "ICT, CAS"
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "panfeiyang@ict.ac.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
