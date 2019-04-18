@@ -21,7 +21,7 @@ My research focuses on machine learning and data mining. I enjoy designing learn
 * Reinforcement Learning, Meta-Learning, and Bayesian Deep Learning;
 * Recommender Systems, Computational Advertising, FinTech, and Natural Language Processing.
 
-Instead of exploiting the knowledge, I would like to explore intelligence.
+Rather than exploiting the knowledge, I prefer exploring intelligence.
 
 ## Academic visits, internships, and industry collaborations
 
