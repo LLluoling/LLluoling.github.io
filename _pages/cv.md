@@ -17,9 +17,7 @@ I received my B.S. of Statistics and a dual degree of CS from the [School of the
 
 ## Research Interests
 
-My research focuses on machine learning and data mining. I enjoy designing learning algorithms as well as solving applied problems. For these two parts respectively, I am especially interested in
-* Reinforcement Learning, Meta-Learning, and Bayesian Deep Learning;
-* Recommender Systems, Computational Advertising, FinTech, and Natural Language Processing.
+My research focuses on machine learning and applications. In particular, I am working on Reinforcement Learning and its applications, e.g., in the field of recommender systems and online advertising.
 
 Rather than exploiting the knowledge, I prefer exploring intelligence.
 
