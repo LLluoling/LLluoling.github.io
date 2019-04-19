@@ -17,7 +17,7 @@ I received my B.S. of Statistics and a dual degree of CS from the [School of the
 
 ## Research Interests
 
-My research focuses on machine learning and applications. In particular, I am working on Reinforcement Learning and its applications, e.g., recommender systems and online advertising.
+My research focuses on machine learning and applications. In particular, I am working on Reinforcement Learning, Meta-Learning, and their applications, e.g., recommender systems and online advertising.
 
 _Rather than exploiting the knowledge, I prefer exploring intelligence._
 
