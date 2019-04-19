@@ -48,13 +48,16 @@
             {{a}},
           {% endif %}
       {% endif %}
-    {% endfor %}<br>
+    {% endfor %}<br> 
       {% if post.status == 'pub' %}
         In <b><i>{{post.venue}}</i></b> {{post.year}}.
       {% elsif post.status == 'acc' %}
         To appear in <b><i>{{post.venue}}</i></b> {{post.year}}.
       {% else %}
         <i>Work in progress.</i>
+      {% endif %}
+      {% if post.paperurl %}
+        <a href="{{ post.paperurl }}" rel="permalink">[Download paper]</a>
       {% endif %}
     </li>
  </article>
