@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "About me"
+title: "Feiyang Pan &#39;s Homepage"
 permalink: /
 author_profile: true
 redirect_from:
@@ -11,9 +11,14 @@ redirect_from:
 
 {% include base_path %}
 
+## About me
+
 I am a 3rd-year PhD student under the supervision of [Prof. Qing He](http://people.ucas.edu.cn/~0000964?language=en) at Machine Learning and Data Mining group, Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS).
 
 I received my B.S. of Statistics and a dual degree of CS from the [School of the Gifted Young, USTC](https://en.scgy.ustc.edu.cn/) in 2016.
+
+### Contact information
+Email: panfeiyang@ict.ac.cn
 
 ## Research Interests
 
@@ -28,6 +33,12 @@ _Rather than exploiting the knowledge, I prefer exploring intelligence._
 * Research collaborations with Tencent for new approaches in Tencent advertising systems, 2018-2019.
 * Research intern at Search & Recommendation group, Alibaba, 2018-2019.
 
+## Publications
+
+<ul>{% for post in site.publications reversed %}
+{% include archive-single-cv.html %}
+{% endfor %}</ul>
+
 ## Selected competitions and awards
 Before diving into research, I was a top-class player in machine learning contests. My highest ranking at Kaggle was 63/90000+.
 * Kaggle: TalkingData AdTracking fraud detection challenge, **\#2** / 3967, 2018.
@@ -41,9 +52,3 @@ Some awards in my graduate and undergraduate school:
 * First-class Scholarship of ICT, CAS, 2017.
 * Excellent Undergraduate Thesis of USTC, 2016.
 * Outstanding Graduate of USTC, 2016.
-
-## Publications
-
-<ul>{% for post in site.publications reversed %}
-{% include archive-single-cv.html %}
-{% endfor %}</ul>

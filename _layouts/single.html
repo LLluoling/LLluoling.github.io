@@ -39,9 +39,9 @@ layout: default
         {% elsif page.venue and page.year %}
           <p>{{page.authorlist}}. <br>
                 {% if page.status == 'pub' %}
-                  In <b>{{post.venue}}</b> {{post.year}}.
+                  In <b>{{page.venue}}</b> {{page.year}}.
                 {% elsif page.status == 'acc' %}
-                  To appear in <b><i>{{post.venue}}</i></b> {{post.year}}.
+                  To appear in <b><i>{{page.venue}}</i></b> {{page.year}}.
                 {% else %}
                   <i>Work in progress.</i>
                 {% endif %}</p>
