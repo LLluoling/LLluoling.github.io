@@ -4,9 +4,9 @@ title: "About me"
 permalink: /
 author_profile: true
 redirect_from:
-  - /resume
   - /about/
   - /about.html
+  - /aboutme
 ---
 
 {% include base_path %}
