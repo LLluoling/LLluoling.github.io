@@ -45,7 +45,7 @@ Before diving into research, I was a top-class player in machine learning contes
 * Kaggle: Recruit restaurant visitor forecasting, **\#1** / 2158, 2018.
 * IJCAI-18 data mining competition on Alimama sponsored search CVR prediction, **\#1** / 5204 in season 1, 2018.
 * IJCAI-17 data mining competition on customer flow forecasting in Koubei.com, **\#1** / 4046 in season 1, 2017.
-* CCF BDCI 2019 competition on personalized telecom package recommendation, **\#1** / 2546, 2018.
+* CCF BDCI 2018 competition on personalized telecom package recommendation, **\#1** / 2546, 2018.
 
 Some awards in my graduate and undergraduate school:
 * LvDe Scholarship (one of the top scholarships in ICT, CAS), 2019.
