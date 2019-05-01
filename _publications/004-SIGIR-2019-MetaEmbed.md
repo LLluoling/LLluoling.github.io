@@ -6,7 +6,7 @@ excerpt: "Warm Up Cold-start Advertisements: Improving CTR Predictions via Learn
 date: 2019-01-01
 venue: "SIGIR"
 year: 2019
-paperurl: /files/MetaEmbedding.pdf
+paperurl: https://arxiv.org/abs/1904.11547
 authorlist: "Feiyang Pan, Shuokai Li, Xiang Ao, Pingzhong Tang, Qing He"
 citation: "Feiyang Pan, Shuokai Li, Xiang Ao, Pingzhong Tang, Qing He. Warm Up Cold-start Advertisements: Improving CTR Predictions via Learning to Learn ID Embeddings. In SIGIR 2019."
 status: 'acc'
@@ -18,4 +18,4 @@ In this paper, we aim to improve CTR predictions during both the **cold-start** 
 
 Experimental results on three real-world datasets showed that Meta-Embedding can significantly improve both the cold-start and warm-up performances for six existing CTR prediction models, ranging from lightweight models such as Factorization Machines to complicated deep models such as PNN and DeepFM. All of the above apply to conversion rate (CVR) predictions as well.
 
-**Download: [[PDF]](/files/MetaEmbedding.pdf)**
+**Download: [[PDF]](https://arxiv.org/abs/1904.11547)**
