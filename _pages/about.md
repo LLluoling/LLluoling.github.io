@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Feiyang Pan &#39;s Homepage"
+title: "Feiyang Pan Homepage"
 permalink: /
 author_profile: true
 redirect_from:
