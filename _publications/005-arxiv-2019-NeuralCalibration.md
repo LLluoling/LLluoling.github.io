@@ -1,7 +1,7 @@
 ---
 title: "Towards reliable and fair probabilistic predictions: field-aware calibration with neural networks"
 collection: publications
-permalink: /publications/MetaEmbedding
+permalink: /publications/NeuralCalibration
 excerpt: "Towards reliable and fair probabilistic predictions: field-aware calibration with neural networks" 
 date: 2019-05-27
 venue: "Working paper"
