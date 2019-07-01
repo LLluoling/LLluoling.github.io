@@ -42,8 +42,8 @@ _Rather than exploiting the knowledge, I prefer exploring intelligence._
 
 ## Selected competitions and awards
 Before diving into research, I was a top-class player in machine learning contests. My highest ranking at Kaggle was 63/90000+.
-* Kaggle: TalkingData AdTracking fraud detection challenge, **\#2** / 3967, 2018.
 * Kaggle: Recruit restaurant visitor forecasting, **\#1** / 2158, 2018.
+* Kaggle: TalkingData AdTracking fraud detection challenge, **\#2** / 3967, 2018.
 * IJCAI-18 data mining competition on Alimama sponsored search CVR prediction, **\#1** / 5204 in season 1, 2018.
 * IJCAI-17 data mining competition on customer flow forecasting in Koubei.com, **\#1** / 4046 in season 1, 2017.
 * CCF BDCI 2018 competition on personalized telecom package recommendation, **\#1** / 2546, 2018.

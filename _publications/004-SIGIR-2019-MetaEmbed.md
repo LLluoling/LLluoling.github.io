@@ -7,6 +7,7 @@ date: 2019-01-01
 venue: "SIGIR"
 year: 2019
 paperurl: https://arxiv.org/abs/1904.11547
+code: https://github.com/Feiyang/MetaEmbedding
 authorlist: "Feiyang Pan, Shuokai Li, Xiang Ao, Pingzhong Tang, Qing He"
 citation: "Feiyang Pan, Shuokai Li, Xiang Ao, Pingzhong Tang, Qing He. Warm Up Cold-start Advertisements: Improving CTR Predictions via Learning to Learn ID Embeddings. In SIGIR 2019."
 status: 'acc'
