@@ -20,4 +20,5 @@ In this paper, we aim to improve CTR predictions during both the **cold-start** 
 Experimental results on three real-world datasets showed that Meta-Embedding can significantly improve both the cold-start and warm-up performances for six existing CTR prediction models, ranging from lightweight models such as Factorization Machines to complicated deep models such as PNN and DeepFM. All of the above apply to conversion rate (CVR) predictions as well.
 
 **Download: [[PDF]](https://arxiv.org/abs/1904.11547)**
+
 **Code: [[github]](https://github.com/Feiyang/MetaEmbedding)**
