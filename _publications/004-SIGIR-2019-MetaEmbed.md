@@ -10,7 +10,7 @@ paperurl: https://dl.acm.org/citation.cfm?id=3331268
 code: https://github.com/Feiyang/MetaEmbedding
 authorlist: "Feiyang Pan, Shuokai Li, Xiang Ao, Pingzhong Tang, Qing He"
 citation: "Feiyang Pan, Shuokai Li, Xiang Ao, Pingzhong Tang, Qing He. Warm Up Cold-start Advertisements: Improving CTR Predictions via Learning to Learn ID Embeddings. In SIGIR 2019."
-status: 'acc'
+status: 'pub'
 ---
 **Abstract:**
 Click-through rate (CTR) prediction has been one of the most central problems in computational advertising. Lately, embedding techniques that produce low-dimensional representations of ad IDs drastically improve CTR prediction accuracies. However, such learning techniques are data demanding and work poorly on new ads with little logging data, which is known as the cold-start problem.
