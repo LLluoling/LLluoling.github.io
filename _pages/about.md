@@ -30,9 +30,9 @@ _Rather than exploiting the knowledge, I prefer exploring intelligence._
 ## Academic visits, internships, and industry collaborations
 
 * Ph.D. visitor at [Prof. Pingzhong Tang](http://iiis.tsinghua.edu.cn/~kenshin/)'s group in [IIIS, Tsinghua University](http://iiis.tsinghua.edu.cn/), since 2018.
-* Research collaborations with Ant Financial for designing anti-fraud mechanisms, 2019.
-* Research collaborations with Tencent for new approaches in Tencent advertising systems, 2018-2019.
-* Research intern at Search & Recommendation group, Alibaba, 2018-2019.
+* Research collaboration with Ant Financial for designing anti-fraud mechanisms, 2019.
+* Research collaboration with Tencent for new approaches in Tencent advertising systems, 2018-2019.
+* Research collaboration with Alibaba for reinforcement mechanism design, 2018-2019.
 
 ## Publications
 
