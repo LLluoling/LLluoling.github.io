@@ -14,7 +14,7 @@ redirect_from:
 
 ## About me
 
-I am a 3rd-year PhD student under the supervision of [Prof. Qing He](http://people.ucas.edu.cn/~0000964?language=en) at Machine Learning and Data Mining group, Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS).
+I am a 4th-year PhD student under the supervision of [Prof. Qing He](http://people.ucas.edu.cn/~0000964?language=en) at Machine Learning and Data Mining group, Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS).
 
 I received my B.S. of Statistics and a dual degree of CS from the [School of the Gifted Young, USTC](https://en.scgy.ustc.edu.cn/) in 2016.
 
@@ -30,6 +30,7 @@ _Rather than exploiting the knowledge, I prefer exploring intelligence._
 ## Academic visits, internships, and industry collaborations
 
 * Ph.D. visitor at [Prof. Pingzhong Tang](http://iiis.tsinghua.edu.cn/~kenshin/)'s group in [IIIS, Tsinghua University](http://iiis.tsinghua.edu.cn/), since 2018.
+* Research Intern at Ant Financial AI, 2019.
 * Research collaboration with Ant Financial for designing anti-fraud mechanisms, 2019.
 * Research collaboration with Tencent for new approaches in Tencent advertising systems, 2018-2019.
 * Research collaboration with Alibaba for reinforcement mechanism design, 2018-2019.
