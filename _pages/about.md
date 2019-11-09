@@ -50,6 +50,7 @@ Before diving into research, I was a top-class player in machine learning contes
 * CCF BDCI 2018 competition on personalized telecom package recommendation, **\#1** / 2546, 2018.
 
 Some awards in my graduate and undergraduate school:
+* National Scholarship, 2019.
 * LvDe Scholarship (one of the top scholarships in ICT, CAS), 2019.
 * First-class Scholarship of ICT, CAS, 2017.
 * Excellent Undergraduate Thesis of USTC, 2016.
