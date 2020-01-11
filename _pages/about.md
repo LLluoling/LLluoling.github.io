@@ -16,12 +16,13 @@ redirect_from:
 
 I am a 4th-year PhD candidate under the supervision of [Prof. Qing He](http://people.ucas.edu.cn/~0000964?language=en) at Machine Learning and Data Mining group, Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS).
 
-Also, I am currently a Ph.D. visitor at IIIS, Tsinghua University, under supervision of [Prof. Pingzhong Tang](http://iiis.tsinghua.edu.cn/~kenshin/).
+I am also currently a Ph.D. visitor at IIIS, Tsinghua University, under supervision of [Prof. Pingzhong Tang](http://iiis.tsinghua.edu.cn/~kenshin/).
 
 I received my B.S. of Statistics and a dual degree of CS from the [School of the Gifted Young, USTC](https://en.scgy.ustc.edu.cn/) in 2016.
 
 ### Contact information
 Email: panfeiyang@ict.ac.cn
+
 Wechat: pfy824
 
 ## Research Interests
