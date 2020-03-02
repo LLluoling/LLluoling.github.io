@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Feiyang Pan / 潘斐阳"
+title                    : "Ling Luo / 罗玲"
 title_separator          : "-"
-name                     : &name "Feiyang Pan"
-description              : &description "Ph.D. student at ICT, CAS."
-url                      : https://Feiyang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Luo Ling "
+description              : &description "Master student at ICT, CAS."
+url                      : https://LLluoling.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Feiyang/Feiyang.github.io"
+repository               : "LLluoling/LLluoling.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160

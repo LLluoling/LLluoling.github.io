@@ -1,0 +1,15 @@
+---
+title: "Reading Like HER: Human Reading Inspired Extractive Summarization"
+collection: publications
+permalink: /publications/HER
+excerpt: "Reading Like HER: Human Reading Inspired Extractive Summarization"
+date: 2019-01-01
+venue: "EMNLP"
+year: 2019
+paperurl: "https://www.aclweb.org/anthology/D19-1300/"
+authorlist: "Ling Luo, Xiang Ao, Yan Song, Feiyang Pan, Min Yang, Qing He"
+citation: "Ling Luo, Xiang Ao, Yan Song, Feiyang Pan, Min Yang and Qing He. Reading Like HER: Human Reading Inspired Extractive Summarization. In EMNLP-2019."
+status: 'pub'
+---
+In this work, we re-examine the problem of extractive text summarization for long documents. We observe that the process of extracting summarization of human can be divided into two stages: 1) a rough reading stage to look for sketched information, and 2) a subsequent careful reading stage to select key sentences to form the summary. By simulating such a two-stage process, we propose a novel approach for extractive summarization. We formulate the problem as a contextual-bandit problem and solve it with policy gradient. We adopt a convolutional neural network to encode gist of paragraphs for rough reading, and a decision making policy with an adapted termination mechanism for careful reading. Experiments on the CNN and DailyMail datasets show that our proposed method can provide high-quality summaries with varied length, and significantly outperform the state-of-the-art extractive methods in terms of ROUGE metrics.
+
