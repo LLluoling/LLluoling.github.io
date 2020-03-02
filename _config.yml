@@ -80,14 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Feiyang Pan / 潘斐阳"
-  avatar           : "profile.png"
-  bio              : "To explore intellegence."
+  name             : "Ling Luo / 罗玲"
   location         : "Beijing, China"
   employer         : "ICT, CAS"
   pubmed           : 
   googlescholar    : 
-  email            : "panfeiyang@ict.ac.cn"
+  email            : "luoling18s@ict.ac.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

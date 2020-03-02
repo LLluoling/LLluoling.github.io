@@ -20,14 +20,8 @@ I received my B.S. of CS from NaiKai University in 2018.
 ### Contact information
 Email: luoling18s@ict.ac.cn
 
-Wechat: pfy824
 
 ## Research Interests
 
 My research focuses on Natural language processing, especially applications on ﬁnancial texts. In particular, I am working on Sentiment Analysis and Text Generation.
 
-## Publications
-
-<ul>{% for post in site.publications reversed %}
-{% include archive-single-cv.html %}
-{% endfor %}</ul>
