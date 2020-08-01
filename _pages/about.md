@@ -22,9 +22,9 @@ Email: luoling18s@ict.ac.cn -->
 
 ## Research Interests
 
-My research focuses on Natural language processing, especially applications on ﬁnancial texts. In particular, I am working on natural language understanding and generation.
+My research focuses on text analysis and news recommendation incorporated with natural language processing and reinforcement learning.
 
-## Publications
+## Publications & Work in progress
 
 <ul>{% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
